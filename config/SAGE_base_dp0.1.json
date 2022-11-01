@@ -1,0 +1,12 @@
+{
+    "type": "sage",
+    "paras": {
+        "num_layer": 5,
+        "drop_ratio": 0.1,
+        "JK": "last",
+        "pooling": "mean",
+        "residual": false,
+        "emb_dim": 256
+    },
+    "result_dim": 256
+}
