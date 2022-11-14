@@ -85,7 +85,7 @@ We use four datasets from [OGB](https://ogb.stanford.edu/) benchmark and six dat
 }
 ```
 
-
+**The codes for DrugOOD benchmark will be released soon.**
 
 
 Welcome to contact us [yangnianzu@sjtu.edu.cn](mailto:yangnianzu@sjtu.edu.cn) or [zengkaipeng@sjtu.edu.cn](mailto:zengkaipeng@sjtu.edu.cn) for any question.
