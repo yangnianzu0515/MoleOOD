@@ -84,8 +84,8 @@ We use four datasets from [OGB](https://ogb.stanford.edu/) benchmark and six dat
 ```bibtex
 @inproceedings{yang2022learning,
   title={Learning Substructure Invariance for Out-of-Distribution Molecular Representations},
-  author={Yang, Nianzu and Zeng, Kaipeng and Wu, Qitian and Jia, Xiaosong and Yan, Junchi},
-  booktitle={Advances in neural information processing systems},
+  author={Nianzu Yang and Kaipeng Zeng and Qitian Wu and Xiaosong Jia and Junchi Yan},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022},
 }
 ```
