@@ -76,7 +76,7 @@ We use four datasets from [OGB](https://ogb.stanford.edu/) benchmark and six dat
 
 ## Citation
 
-```
+```bibtex
 @inproceedings{yang2022learning,
   title={Learning Substructure Invariance for Out-of-Distribution Molecular Representations},
   author={Yang, Nianzu and Zeng, Kaipeng and Wu, Qitian and Jia, Xiaosong and Yan, Junchi},
