@@ -3,7 +3,7 @@
     <a href="https://openreview.net/forum?id=2nWUNTnFijm"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NeurIPS%2722&color=blue"></a>
     <a href="https://github.com/yangnianzu0515/MoleOOD/blob/master/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/MoleOOD?color=green"></a>
     <a href="https://yangnianzu0515.github.io/slides/paper4-slides-moleood.pdf"> <img src="https://img.shields.io/badge/Slides-grey?&logo=MicrosoftPowerPoint&logoColor=red" alt="Slides"></a>
-    <img src="https://img.shields.io/github/stars/yangnianzu0515/MoleOOD?color=yellow&label=Star" alt="Stars">
+    <a href="https://github.com/yangnianzu0515/MoleOOD/stargazers"><img src="https://img.shields.io/github/stars/yangnianzu0515/MoleOOD?color=yellow&label=Star" alt="Stars"></a>
 </p>
 
 Official implementation for our paper:
