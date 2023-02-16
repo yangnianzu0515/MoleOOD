@@ -12,7 +12,7 @@ Learning Substructure Invariance for Out-of-Distribution Molecular Representatio
 
 Nianzu Yang, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, Junchi Yan* (* denotes correspondence)
 
-*Advances in Neural Information Processing Systems* (**NeurIPS 2022**)
+*Advances in Neural Information Processing Systems* (**NeurIPS 2022**, **Spotlight**)
 
 
 ## Dataset
